@@ -8,13 +8,7 @@ Welcome to the Social Media Sentiment Analysis project repository! This project 
 - [Project Overview](#project-overview)
 - [Features](#features)
 - [Requirements](#requirements)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Sentiment Analysis Techniques](#sentiment-analysis-techniques)
-- [Evaluation Metrics](#evaluation-metrics)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
